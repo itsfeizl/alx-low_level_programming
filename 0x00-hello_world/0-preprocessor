@@ -1,0 +1,2 @@
+#!/ibn/bash
+gcc -E $CFILE >> c
